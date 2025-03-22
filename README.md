@@ -1,6 +1,8 @@
 # About Me :100:
 
-Hey, my name is Jaden and I'm a second year computer science student @ SDSU!
+🚀 I am currently a second year undergraduate studying Computer Science at SDSU!<br>
+🐧 Passionate about Linux, software engineering, IT, and networking!
+
 
 
 
