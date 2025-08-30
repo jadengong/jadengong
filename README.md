@@ -1,7 +1,7 @@
 # About Me :100:
 
 🚀 I am currently a third year undergraduate studying Computer Science at SDSU!<br>
-🐧 Passionate about Linux, software engineering, IT, and networking!
+🐧 Passionate about systems engineering, software engineering, IT, and operating systems!
 
 
 
