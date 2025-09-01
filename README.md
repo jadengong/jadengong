@@ -1,5 +1,5 @@
 # About Me :100:
-🚀 I am currently a third year undergraduate studying Computer Science at SDSU!<br><br>🐧 Passionate about systems engineering, software engineering, IT, and operating systems!
+🚀 I am currently a third year undergraduate majoring in Computer Science and planning to minor in Information Systems at SDSU!<br><br>🐧 Passionate about systems engineering, software engineering, IT, and operating systems!
 
 
 ## 🌐 Socials:
