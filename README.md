@@ -21,7 +21,7 @@
 <br><br>
 🎯 <b>Looking for:</b> Opportunities to grow as a backend developer and collaborate on impactful open source or real-world projects.
 <br><br>
-🎲 <b>Fun facts:</b> I have 3 budgies 🐦 and get way too engrossed in fantasy football leagues 🏈.
+🎲 <b>Fun facts:</b> I have 3 budgies 🐦 and get way too engrossed in fantasy football. I watch anime, go to the gym, and am unfortunately Ascendant in Valorant.
 <br><br>
 💬 <b>Feel free to reach out: </b> <a href="mailto:ong.jadengabriel@gmail.com">ong.jadengabriel@gmail.com</a>
 </p>
