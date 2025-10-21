@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">3rd-year Computer Science student exploring backend, systems, and automation.</p>
+<p align="left">3rd-year Computer Science student at San Diego State University interested in backend, systems, and automation.</p>
 
 ###
 
@@ -10,7 +10,21 @@
 
 ###
 
-<p align="left">📚 I'm currently learning:<br>CI/CD pipelines, unit tests, and RESTful API design<br>🎯 Goals: Build scalable backend systems and contribute to open source<br>🎲 Fun facts: I have 3 budgies and get a little too engrossed in fantasy football</p>
+<p align="left">
+📚 <b>I'm currently learning:</b><br>
+• <i>CI/CD pipelines (GitHub Actions, Docker)</i><br>
+• <i>Unit testing and test automation (pytest, coverage)</i><br>
+• <i>RESTful API design and documentation</i><br>
+• <i>Deployment with containers and cloud services</i>
+<br><br>
+🎯 <b>Goals:</b> Build scalable backend systems and contribute to open source projects.
+<br><br>
+🎯 <b>Looking for:</b> Opportunities to grow as a backend developer and collaborate on impactful open source or real-world projects.
+<br><br>
+🎲 <b>Fun facts:</b> I have 3 budgies 🐦 and get way too engrossed in fantasy football leagues 🏈.
+<br><br>
+💬 <b>Feel free to reach out: </b> <a href="mailto:ong.jadengabriel@gmail.com">ong.jadengabriel@gmail.com</a>
+</p>
 
 ###
 
