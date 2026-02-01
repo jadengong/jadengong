@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">3rd-year Computer Science student at San Diego State University interested in backend, systems, and automation.</p>
+<p align="left">3rd-year Computer Science student at San Diego State University interested in backend, full-cycle, and automation.</p>
 
 ###
 
