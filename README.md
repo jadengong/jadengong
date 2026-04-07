@@ -19,9 +19,7 @@
 <br><br>
 🎯 <b>Goals:</b> Build scalable backend systems and contribute to open source projects.
 <br><br>
-🎯 <b>Looking for:</b> Opportunities to grow as a backend developer and collaborate on impactful open source or real-world projects.
-<br><br>
-🎲 <b>Fun facts:</b> I have 3 budgies 🐦 and get too engrossed in fantasy football. I watch anime, go to the gym, and am unfortunately Ascendant in Valorant.
+🎲 <b>Fun facts:</b> I have 3 budgies 🐦 and get too engrossed in fantasy football. I watch anime, go to the gym, and enjoy birdwatching!
 <br><br>
 💬 <b>Feel free to reach out:</b> <a href="mailto:ong.jadengabriel@gmail.com">ong.jadengabriel@gmail.com</a>
 </p>
